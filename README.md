@@ -1,3 +1,6 @@
-# Laboratory-of-Data-Science
-This repository shows the Laboratory of Data Science project.
-This course introduced the basics of the ETL process and required the creation of a Data Warehouse and a cube in order to perform a multidimensional Data Analysis through Visual Studio.
+# LaboratoyOfDataScience
+Project description: 
+
+In this project were employed software languages and tools (SQL Management Studio, Microsoft Azure, Python, Visual Studio) for the design of the datawarehouse and its data population through ETL flows.
+The snowflake schema was then used to generate an OLAP cube which was queried through MDX. 
+Ultimately, we used the multidimensional structure to extract information and buils KPI using Power BI.
